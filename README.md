@@ -1,3 +1,3 @@
 # ToDo-list
-Реализован с использованием localStorage.
+Реализован с использованием localStorage.  
 [Посмотреть результат](https://antondanko.github.io/ToDo-list/)
